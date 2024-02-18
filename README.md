@@ -187,6 +187,18 @@ GoFilm-main
 ```
 
 
+## 使用方法
+- git clone https://github.com/ProudMuBai/GoFilm.git
+- 将film复制到/opt目录下面
+- cd /opt/film
+- docker compose build
+- docker compose up -d
+- 会占用80端口，自己修改
+- 服务器IP/manage
+- admin
+- admin
+
+
 
 ## 起源
 
